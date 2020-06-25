@@ -6,7 +6,7 @@ Con una máquina de estados se implemento un protocolo de comunicación para con
 
 **Nota:** El sistema cuenta con baterías y panel solar, y el voltaje actual de estos se puede obtener mediate la interfaz.
 
-## Interfaz 🛠️
+## Interfaz 💻
 ![alt text](https://github.com/CamilaR20/Monitoreo-de-inclinacion-de-edificios/blob/master/Interfaz.png?raw=true)
 
 ### Funciones de la interfaz
